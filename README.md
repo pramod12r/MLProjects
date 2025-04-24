@@ -72,3 +72,6 @@ plt.show()
 # Step 6: Save model and download
 joblib.dump(clf, "lung_rf_classifier.joblib")
 files.download("lung_rf_classifier.joblib")
+![lung cancer-vitmodel](https://github.com/user-attachments/assets/d6d22151-3c5a-4ad9-9bee-1dda0b901057)
+
+
