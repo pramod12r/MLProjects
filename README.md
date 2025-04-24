@@ -74,4 +74,6 @@ joblib.dump(clf, "lung_rf_classifier.joblib")
 files.download("lung_rf_classifier.joblib")
 ![lung cancer-vitmodel](https://github.com/user-attachments/assets/d6d22151-3c5a-4ad9-9bee-1dda0b901057)
 
+![ROC-Curve](https://github.com/user-attachments/assets/dbec72fa-d230-491c-abe5-2d0e6ff39c66)
+
 
